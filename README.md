@@ -1,16 +1,7 @@
-# weather
+# Weather App
+by Siddhant Bisht
 
-A new Flutter project.
+This weather app offers a seamless and visually appealing experience for users to access real-time weather information. Leveraging the power of Dart and Flutter, the app integrates with the OpenWeather API to provide accurate and up-to-date weather data.
+Upon launching the app, users are greeted with an intuitive interface designed for simplicity and functionality. The home screen showcases the current weather conditions of a default city, accompanied by a visually striking weather icon, temperature, and a brief description of the weather condition. Users can easily navigate through the app, with a search bar allowing them to explore weather details for different cities.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NOTE : You if you want this project to work then you do have to add your own API key inside Worker.dart file.
